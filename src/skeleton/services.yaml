@@ -6,29 +6,22 @@
     - sasrblx.co.uk:
         href: https://sasrblx.co.uk
         description: Home website.
-        style: row
-        columns: 1
 
 - Content Delivery Network:
     - Zipline:
         href: https://cdn.sasrblx.co.uk
         description: Website for Content Delivering.
-        style: row
-        columns: 2
+
     - Zipline Status:
         href: https://status.cdn.sasrblx.co.uk
         description: Monitor Content Delivery Network uptime.
-        style: row
-        columns: 2
+
 
 - Content Delivery Network:
     - Portainer:
         href: https://portainer.sasrblx.co.uk
         description: Website for Monitoring Containers.
-        style: row
-        columns: 2
+
     - Portainer Status:
         href: https://status.portainer.sasrblx.co.uk
         description: Monitor Portainer uptime.
-        style: row
-        columns: 2
