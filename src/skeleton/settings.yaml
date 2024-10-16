@@ -10,4 +10,4 @@ theme: light
 
 providers:
   openweathermap: openweathermapapikey
-  weatherapi: weatherapiapikey
+  weatherapi: 28583918d15d46c18ba231725241610
