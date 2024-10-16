@@ -6,7 +6,7 @@ title: Dashboard
 
 background: http://cdn.sasrblx.co.uk/u/2OuRWS.png
 
-
+theme: light
 
 providers:
   openweathermap: openweathermapapikey
