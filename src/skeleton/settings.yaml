@@ -2,6 +2,14 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/settings
 
+title: Dashboard
+
+background: http://cdn.sasrblx.co.uk/u/2OuRWS.png
+
+theme: dark
+
+
+
 providers:
   openweathermap: openweathermapapikey
   weatherapi: weatherapiapikey
