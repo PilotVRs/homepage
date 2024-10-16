@@ -2,17 +2,33 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/services
 
-- My First Group:
-    - My First Service:
-        href: http://localhost/
-        description: Homepage is awesome
+- Website:
+    - sasrblx.co.uk:
+        href: https://sasrblx.co.uk
+        description: Home website.
+        style: row
+        columns: 1
 
-- My Second Group:
-    - My Second Service:
-        href: http://localhost/
-        description: Homepage is the best
+- Content Delivery Network:
+    - Zipline:
+        href: https://cdn.sasrblx.co.uk
+        description: Website for Content Delivering.
+        style: row
+        columns: 2
+    - Zipline Status:
+        href: https://status.cdn.sasrblx.co.uk
+        description: Monitor Content Delivery Network uptime.
+        style: row
+        columns: 2
 
-- My Third Group:
-    - My Third Service:
-        href: http://localhost/
-        description: Homepage is 😎
+- Content Delivery Network:
+    - Portainer:
+        href: https://portainer.sasrblx.co.uk
+        description: Website for Monitoring Containers.
+        style: row
+        columns: 2
+    - Portainer Status:
+        href: https://status.portainer.sasrblx.co.uk
+        description: Monitor Portainer uptime.
+        style: row
+        columns: 2
