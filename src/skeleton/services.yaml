@@ -9,19 +9,13 @@
 
 - Content Delivery Network:
     - Zipline:
-        href: https://cdn.sasrblx.co.uk
-        description: Website for Content Delivering.
-
+        href: https://cdn.sasrblx.co.uk/
+        description: Content Delivery Network service.
     - Zipline Status:
-        href: https://status.cdn.sasrblx.co.uk
-        description: Monitor Content Delivery Network uptime.
+        href: https://status.cdn.sasrblx.co.uk/
+        description: Content Delivery Network uptime.
 
-
-- Content Delivery Network:
+- Portainer:
     - Portainer:
-        href: https://portainer.sasrblx.co.uk
-        description: Website for Monitoring Containers.
-
-    - Portainer Status:
-        href: https://status.portainer.sasrblx.co.uk
-        description: Monitor Portainer uptime.
+        href: https://portainer.sasrblx.co.uk/
+        description: Portainer uptime.
