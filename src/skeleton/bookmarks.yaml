@@ -11,8 +11,14 @@
     - Reddit:
         - abbr: RE
           href: https://reddit.com/
+    - Discord:
+        - abbr: DC
+          href: https://discord.com/
 
 - Entertainment:
     - YouTube:
         - abbr: YT
           href: https://youtube.com/
+    - Tiktok:
+        - abbr: TT
+          href: https://tiktok.com/
