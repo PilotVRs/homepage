@@ -8,6 +8,11 @@ background: https://cdn.discordapp.com/attachments/797099286470852629/1296248349
 
 theme: light
 
+language: en
+
+hideVersion: true
+
+headerStyle: clean
+
 providers:
-  openweathermap: openweathermapapikey
   weatherapi: 28583918d15d46c18ba231725241610
