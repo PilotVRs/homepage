@@ -10,3 +10,9 @@
 - search:
     provider: duckduckgo
     target: _blank
+
+widget:
+  type: portainer
+  url: https://portainer.sasrblx.co.uk/api/webhooks/59f319fe-4409-4c0c-a0f2-3cb23f6731cb
+  env: 1
+  key: ptr_CY1XCOyqSVjXKUDhXKFilCBFIuzA7mR6SQ5mwWSKUqk=
